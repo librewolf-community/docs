@@ -2,8 +2,6 @@
 title: Autofill
 ---
 
-# Autofill
-
 ## Forms auto fill
 
 ### `extensions.formautofill.addresses.enabled

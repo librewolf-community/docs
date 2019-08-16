@@ -2,8 +2,6 @@
 title: Controversial
 ---
 
-# Controversial
-
 ```js
 // Pref : Disable IndexedDB (disabled)
 // Pref : 2720: enforce IndexedDB (IDB)

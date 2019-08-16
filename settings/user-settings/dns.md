@@ -2,8 +2,6 @@
 title: DNS
 ---
 
-# DNS
-
 ```js
 // Pref : 0707 : disable (or setup) DNS-over-HTTPS (DoH) (FF60+)
 // TRR = Trusted Recursive Resolver

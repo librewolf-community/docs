@@ -2,8 +2,6 @@
 title: Auto-Play
 ---
 
-# Auto-Play
-
 ## Disable auto-play of HTML5 media (FF63+)
 
 ### `media.autoplay.default`

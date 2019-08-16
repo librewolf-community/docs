@@ -2,8 +2,6 @@
 title: Miscellaneous
 ---
 
-# Miscellaneous
-
 ```js
 // Pref : Disable "Are you sure you want to leave this page?" popups on page close
 // https://support.mozilla.org/en-US/questions/1043508

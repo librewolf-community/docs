@@ -2,8 +2,6 @@
 title: Other session
 ---
 
-# Other session
-
 See also: Pref 2805.
 
 ## Disable storing extra session data

@@ -2,8 +2,6 @@
 title: Browser Tests
 ---
 
-# Browser Tests
-
 ## Security/Fingerprint
 
 Firefox 60 and `privacy.resistFingerprinting` are relatively new, please give it some time to be more widely used and thus less finger-printable; If you are using a different site to analyze your browser make sure to read and understand what the test is about.

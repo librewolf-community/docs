@@ -2,8 +2,6 @@
 title: Cookies
 ---
 
-# Cookies
-
 Also see [tracking protection settings](/docs/user-settings/tracking-protection) for other cookies settings.
 
 ## Accept Only 1st Party Cookies

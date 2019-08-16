@@ -2,8 +2,6 @@
 title: DRM Compatibility
 ---
 
-# DRM Compatibility
-
 Digital rights management (DRM) is enforced off by default (this is needed for Netflix and similar); you can enable it with the following instructions:
 
 - Open `librewolf.cfg`

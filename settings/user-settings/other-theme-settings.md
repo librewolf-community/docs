@@ -2,8 +2,6 @@
 title: Other theme settings
 ---
 
-# Other theme settings
-
 ```js
 // Pref : Fix white text on white background for linux
 // fixed with lockPref("ui.use_standins_for_native_colors", true);

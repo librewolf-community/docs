@@ -2,8 +2,6 @@
 title: History
 ---
 
-# History
-
 ## Limit history leak via enumeration (PER TAB: back/forward) - PRIVACY
 
 This is a PER TAB session history. You still have a full history stored under all history.

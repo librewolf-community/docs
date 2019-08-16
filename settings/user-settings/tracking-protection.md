@@ -2,8 +2,6 @@
 title: Tracking Protection
 ---
 
-# Tracking Protection
-
 ## Built-in tracking protection
 
 Firefox now integrates a tracking protection feature (based on disconnect.me). It is a light-list content blocking; the list can not be edited. This feature is disabled in LibreWolf. It's recommended to use UBlock instead. This feature is disabled:

@@ -2,8 +2,6 @@
 title: WebRTC
 ---
 
-# WebRTC
-
 Disable because it is very efficient for fingerprinting.
 
 ## Disable WebRTC getUserMedia, screen sharing, audio capture, video capture

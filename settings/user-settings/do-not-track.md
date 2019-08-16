@@ -2,8 +2,6 @@
 title: Do not track
 ---
 
-# Do not track
-
 ```js
 // Set to enforce; choice was left to the user in a previous version
 lockPref("privacy.donottrackheader.enabled", true);

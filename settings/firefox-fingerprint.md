@@ -2,8 +2,6 @@
 title: FireFox fingerprint
 ---
 
-# FireFox fingerprint
-
 ```js
 // Pref : Enable hardening against various fingerprinting vectors (Tor Uplift project)
 // https://wiki.mozilla.org/Security/Tor_Uplift/Tracking

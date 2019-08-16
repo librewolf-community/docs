@@ -2,8 +2,6 @@
 title: Extension firewall
 ---
 
-# Extensions Firewall
-
 ## Description
 
 *This is a test experiment feature and it is disabled by default.*

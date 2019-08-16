@@ -2,8 +2,6 @@
 title: Defaulting
 ---
 
-# Defaulting
-
 ```js
 // Pref : Preferred language for displaying websites.
 // The first settings overflow the second one

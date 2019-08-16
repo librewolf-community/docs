@@ -2,8 +2,6 @@
 title: Start page highlight
 ---
 
-# Start page highlight
-
 ```js
 // Pref : Defaulting Settings : Start page highlight settings
 // This does not seems to work with defaultPref

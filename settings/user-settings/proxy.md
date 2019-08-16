@@ -2,8 +2,6 @@
 title: Proxy
 ---
 
-# Proxy
-
 ```js
 // Pref : 0706 : remove paths when sending URLs to PAC scripts (FF51+)
 // CVE-2017-5384 : Information disclosure via Proxy Auto-Config (PAC)

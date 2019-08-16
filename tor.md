@@ -2,8 +2,6 @@
 title: Tor
 ---
 
-# Tor Compatibility
-
 **Note: It is not recommended to use Tor with current builds of LibreWolf**
 
 We do not recommend connecting over Tor on LibreWolf classic version (because of the missing LibreWolf-Tor-Addons, they are only included in the tor version for obvious reasons), use instead LibreWolf-Tor version if your threat model calls for it, or for accessing hidden services (Thus said tor settings have been enabled since v2 on all LibreWolf versions for user toriffying/proxifying their entire connection).

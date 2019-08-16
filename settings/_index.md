@@ -2,8 +2,6 @@
 title: Settings Docs
 ---
 
-# Settings Docs
-
 **Note: This section is incomplete.**
 
 `librewolf.cfg`: Locking and defaulting LibreWolf settings for security, privacy and performance.

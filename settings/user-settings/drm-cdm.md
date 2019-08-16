@@ -2,8 +2,6 @@
 title: DRM/CDM
 ---
 
-# DRM/CDM
-
 ## Main DRM/CDM settings
 
 DRM is disabled because it's a closed source blob.

@@ -2,8 +2,6 @@
 title: Password manager
 ---
 
-# Password manager
-
 ## Disable password manager
 
 CIS Version 1.2.0 October 21st, 2011 2.5.2

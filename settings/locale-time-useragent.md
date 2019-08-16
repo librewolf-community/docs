@@ -2,8 +2,6 @@
 title: Locale/Time/Useragent
 ---
 
-# Locale/Time/Useragent
-
 ```js
 // Pref : 0864 : disable date/time picker (FF57+ default true)
 // This can leak your locale if not en-US
